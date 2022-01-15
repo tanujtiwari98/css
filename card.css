@@ -2,7 +2,6 @@
 
 #card {
   border-radius: 16px;
-  box-shadow: 0 10px 20px rgb(40 51 75 / 20%);
   box-sizing: border-box;
   background-color: #ff2d36;
   /* Add your logo as a background image */
@@ -14,15 +13,13 @@
   display: flex;
   flex-direction: column;
   font-family: "Roboto Mono", sans-serif;
-  font-size: 16px;
-  height: 12.61rem; 
+  font-size: 42px;
   justify-content: space-between;
   line-height: 24px;
   overflow: hidden;
   padding: 24px;
   position: relative;
   user-select: none;
-  width: 20rem;
 }
 
 .pan-separator {
