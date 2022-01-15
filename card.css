@@ -11,14 +11,14 @@
   flex-direction: column;
   font-family: "Roboto Mono", sans-serif;
   font-size: 70px;
-  height: 400px; 
+  height: 100vw; 
   justify-content: space-between;
   line-height: 24px;
   overflow: hidden;
   padding: 24px;
   position: relative;
   user-select: none;
-  width: 100%;
+  width: 100vw;
 }
 
 .pan-separator {
