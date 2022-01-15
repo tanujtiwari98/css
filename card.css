@@ -4,13 +4,13 @@
   border-radius: 16px;
   box-shadow: 0 10px 20px rgb(40 51 75 / 20%);
   box-sizing: border-box;
-  background-color: #ff2d36;
+  background-color: black;
   /* Add your logo as a background image */
   background-image: url("https://lithic.com/sterling/img/logo-black.4793a8fe.svg");
   background-repeat: no-repeat;
   /* background-position will need adjusting depending on your logo */
   background-position: bottom 150px left 190px;
-  color: #151418;
+  color: beige;
   display: flex;
   flex-direction: column;
   font-family: "Roboto Mono", sans-serif;
