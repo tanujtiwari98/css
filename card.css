@@ -44,7 +44,7 @@
 #expiry {
   border-radius: 6px;
   bottom: 40%;
-  font-size: 25;
+  font-size: 60%;
   font-weight: 400;
   left: 20px;
   line-height: 30px;
@@ -64,9 +64,9 @@
   border-radius: 6px;
   bottom: 40%;
   cursor: pointer;
-  font-size: 25;
+  font-size: 60%;
   font-weight: 400;
-  left: 220px;
+  left: 40%;
   line-height: 30px;
   margin-left: 25px;
   opacity: 0.8;
