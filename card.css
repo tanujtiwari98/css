@@ -15,7 +15,7 @@
   flex-direction: column;
   font-family: "Roboto Mono", sans-serif;
   font-size: 40px;
-  height: 200px; 
+  height: 250px; 
   justify-content: space-between;
   line-height: 24px;
   overflow: hidden;
@@ -37,7 +37,7 @@
   flex-direction: row;
   font-size: 30px;
   font-weight: 500;
-  height: 32px;
+  height: 55px;
   justify-content: center;
   left: 14px;
   letter-spacing: 6px;
