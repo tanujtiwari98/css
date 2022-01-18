@@ -4,8 +4,7 @@
   box-shadow: 0 10px 20px rgb(40 51 75 / 20%);
   box-sizing: border-box;
   background-image: url(https://github.com/tanujtiwari98/css/blob/main/astronomy-g23908b3ab_1920.jpg);
-  /* Add your logo as a background image */
-  background-repeat: no-repeat;
+  background-size: cover; /* Resize the background image to cover the entire container */
   color: beige;
   display: flex;
   flex-direction: column;
